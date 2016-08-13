@@ -1,6 +1,7 @@
 {
     "HELLO": "Hi there!\nI’m Adrian's bot!\n I will help you get to know Adrian better\n![Adrian](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/Adrian_profile.png)\nWant to know more about Adrian? %[Learn about Adrian](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HI": "Hey, I'm so glad you set Adrian's Bot!\n",
+    "HI": "Hi there!\nI’m Adrian's bot!\n I will help you get to know Adrian better\n![Adrian](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/Adrian_profile.png)\nWant to know more about Adrian? %[Learn about Adrian](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
+    "Learn about Adrian": Great!\n What would you be interested in learning about?\n %[Education](postback:Education) %[Professional Experience](postback:Professional_Experience) %[Hobbies and interests](postback:Hobbies_interests)
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
