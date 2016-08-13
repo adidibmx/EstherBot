@@ -4,6 +4,7 @@
     "LEARN ABOUT ADRIAN": "Great!\n What would you be interested in learning about?\n %[Education](postback:Education) %[Professional Experience](postback:Professional_Experience) %[Hobbies and interests](postback:Hobbies_interests)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
+    "ONE RANDOM  FACT": "Adrian is color blind",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
