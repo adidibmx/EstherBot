@@ -3,7 +3,7 @@
     "HI": "Hi there!\nI’m Adrian's bot!\n I will help you get to know Adrian better\n![Adrian](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/Adrian_profile.png)\n %[Learn about Adrian](postback:learn_about_Adrian) %[One random fact!](postback:random_fact)",
     "LEARN ABOUT ADRIAN": "Great!\n What would you be interested in learning about?\n %[Education](postback:Education) %[Professional Experience](postback:Professional_Experience) %[Hobbies and interests](postback:Hobbies_interests)",
     
-    "EDUCATION": "Adrian has studied in 9 different schools throughout his life.\n In three different countries: Bolivia, the U.S. and Switzerland"\n Would you like to know more about his: %[High school](postback:High_school) %[Bachelors degree](postback:Bachelors_degree) %[Masters degree](postback:Masters_degree)",
+    "EDUCATION": "Adrian has studied in 9 different schools throughout his life.\n In three different countries: Bolivia, the U.S. and Switzerland\n Would you like to know more about his: %[High school](postback:High_school) %[Bachelors degree](postback:Bachelors_degree) %[Masters degree](postback:Masters_degree)",
     "HIGH SCHOOL": "Adrian has studied in two different high schools.\n He attended a French school in Bolivia during his freshman and sophomore year.\n After this he attended Freedom high school in Tampa, Fl for his junior and senior year. \n Would you like to know what he did next?\n %[Bachelors degree](postback:Bachelors_degree) %[Masters degree](postback:Masters_degree)",
     
     
