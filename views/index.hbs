@@ -17,6 +17,7 @@
                 count: inputtext.length
             }, {
                 duration: input.speed,
+                easing: 'linear',
                 step: function () {
                     dv.text(inputtext.substring(0, Math.round(this.count)));
                 },
