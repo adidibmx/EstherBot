@@ -1,4 +1,5 @@
 {
+    "YES": "Great!\n What would you be interested in learning about? %[Education](postback:Education) %[Professional Experience](postback:Professional_Experience) %[Hobbies and interests](postback:Hobbies_interests)",
     "HELLO": "Hey there! I’m <b> Adrian's </b> bot!\n I will help you get to know Adrian better\n ![Adrian](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/Adrian_profile.png)\n %[Learn about Adrian](postback:learn_about_Adrian) %[One random fact!](postback:random_fact)",
     "HI": "Hi there!\nI’m Adrian's bot!\n I will help you get to know Adrian better\n ![Adrian](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/Adrian_profile.png) %[Learn about Adrian](postback:learn_about_Adrian) %[One random fact!](postback:random_fact)",
     "LEARN ABOUT ADRIAN": "Great!\n What would you be interested in learning about? %[Education](postback:Education) %[Professional Experience](postback:Professional_Experience) %[Hobbies and interests](postback:Hobbies_interests)",
