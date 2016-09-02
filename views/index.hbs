@@ -5,6 +5,56 @@
     <script>
         Smooch.init({appToken: '{{appToken}}' });
     </script>
+    <script>
+        function addParagraph(input,callback){
+        	$('#main-intro').append('<span id="' + input.id + '" class="intro ' + input.class + '"/>');
+            var dv = $('#' + input.id);
+            var inputtext = input.text;
+            dv.text("");
+            jQuery({
+                count: 0
+            }).animate({
+                count: inputtext.length
+            }, {
+                duration: input.speed,
+                step: function () {
+                    dv.text(inputtext.substring(0, Math.round(this.count)));
+                },
+                complete: function(){
+                    if(callback != null){
+                        callback();
+                    }
+                }
+            });
+        }
+        
+        var doctext = [
+            { id:"intro-1", speed: 1000, text: "Hi there,", class: ""},
+            { id:"intro-2", speed: 2500, text: "My name is Adrian Cabrera, I am a consultant at The Boston Consulting group and I am currently applying for a MBA at one of the most prestigious school in the world.", class: ""},
+            { id:"intro-3", speed: 3500, text: "I am unfortunately very busy at the moment between my numerous client calls, kitesurfing lessons, and TED talks watching. Therefore, I suggest you have a little chat with my assistant Amanda to know me a bit better. She is quite new to the job, so she might have some issues understanding you from time to time. I hope she will be able to provide you with all the information you need! Otherwise, I would be happy to tell you more during an interview.", class: ""},
+            { id:"intro-4", speed: 1000, text: "Happy chatting!", class: ""},
+            { id:"intro-5", speed: 1000, text: "Sincerly yours,", class: ""},
+            { id:"intro-6", speed: 1000, text: "Adrian", class: ""}
+        ];
+        
+        $(function() {
+            setTimeout(function(){
+                addParagraphs(0);
+            },1000);
+        }); 
+        
+        function addParagraphs(index){
+            if(index < doctext.length - 1){
+                addParagraph(doctext[index],function(){
+                    index = index + 1;
+                    addParagraphs(index)  
+                })    
+            }else{
+                addParagraph(doctext[index])
+            }
+        }
+    </script>
+    
     <style>
         div#side-container {
             width: 20px;
@@ -64,12 +114,12 @@
             <span>Adrian Cabrera</span>
         </div>
         <div id="main-intro">
-            <span class="intro">Hi there,</span>
-            <span class="intro">My name is Adrian Cabrera, I am a consultant at The Boston Consulting group and I am currently applying for a MBA at one of the most prestigious school in the world.</span>
-            <span class="intro">I am unfortunately very busy at the moment between my numerous client calls, kitesurfing lessons, and TED talks watching. Therefore, I suggest you have a little chat with my assistant Amanda to know me a bit better. She is quite new to the job, so she might have some issues understanding you from time to time. I hope she will be able to provide you with all the information you need! Otherwise, I would be happy to tell you more during an interview.</span>
-            <span class="intro">Happy chatting!</span>
-            <span class="intro">Sincerly yours,</span>
-            <span class="intro">Adrian</span>
+            <span class="intro"></span>
+            <span class="intro"></span>
+            <span class="intro"></span>
+            <span class="intro"></span>
+            <span class="intro"></span>
+            <span class="intro"></span>
         </div>
     </div>
     </div>
