@@ -61,6 +61,54 @@
     </script>
     
     <style>
+        div#sk-settings-handle {
+            display: none!important;
+        }
+        
+        div.sk-action {
+            width: auto!important;
+        }
+        
+        button.btn.btn-sk-primary {
+            width: 100%!important;
+        }
+        
+        #main-name {
+            font-family: sans-serif;
+            border-bottom: solid 3px white;
+            color: white;
+            font-weight: lighter;
+        }
+        
+        #main-container {
+            background: url(http://assets.worldwildlife.org/photos/2325/images/hero_full/mountains-hero.jpg?1345838509) no-repeat center center fixed;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+            height: 100%;
+        	background-color: #f4e6e6;
+        }
+        
+        #intro-name {
+            font-weight: bold;
+            text-align: center;
+            font-size: 18pt;
+            margin-top: 10pt;
+        }
+        
+        #intro-img-container {
+            background: url(https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSeIC4nH3Nz10Cx9pJI8nCgrgomNNVkIKDSboOTLgD2TiyFQe4FpdWisjAYHA) no-repeat;
+            border-radius: 50%;
+            width: 130px;
+            height: 140px;
+            display: block;
+            background-size: 100%;
+            border: solid 1px black;
+            margin: 0 auto;
+            float: center;
+        }
+    
         div#side-container {
             width: 20px;
             height: 100%;
@@ -76,11 +124,6 @@
         
         body {
             margin: 0px;
-        }
-        
-        div#main-container {
-        	height: 100%;
-        	background-color: #f4e6e6;
         }
         
         div#main-name {
@@ -99,16 +142,16 @@
             max-width: 500px;
         }
         
-        span.intro {
+        .intro {
             display: block;
-            margin-bottom: 6pt;
-            font-size: 14pt;
+            font-size: 17pt;
+            margin-bottom: 20pt;
+            font-family: sans-serif;
         }
-        
         
         /* BOT */
         #sk-header{ 
-        	background-color: red!important;
+        	background-color: #54b0ff!important;
         }
     </style>
 </head>
@@ -119,6 +162,8 @@
             <span>Adrian Cabrera</span>
         </div>
         <div id="main-intro">
+            <div id="intro-img-container"></div>
+            <div id="intro-name" class="intro">Adrian Cabrera</div>
         </div>
     </div>
     </div>
