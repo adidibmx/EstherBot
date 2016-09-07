@@ -6,6 +6,11 @@
     
     "YES": "Great!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to discover?\n %[Education](postback:Education) %[Professional Experience](postback:Professional_Experience) %[Hobbies and interests](postback:Hobbies_interests)",
     "YES": "Great!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The business man](postback:the_businessman) %[The superhero](postback:the_superhero)",
+
+    "NO, THANKS": "No worries!\n Just say HELLO and I'll be at your disposal",
+    "NO, THANK YOU": "No worries!\n Just say HELLO and I'll be at your disposal",
+    "NO": "No worries!\n Just say HELLO and I'll be at your disposal",
+    
     
     "THE GEEK": "The geekiest of all?\n %[Education] %[Professional Experience](postback:Professional_Experience) %[Hobbies and interests](postback:Hobbies_interests)",
     "KILOBOTS": "",
