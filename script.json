@@ -22,7 +22,7 @@
     
     
     "THE GEEK": "![Adrian](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/Adrian_profile.png)\n I think I rest my case.\n Adrian has a passion for technology!\n Here a list of cool projects he has worked on: %[Kilobots](postback:Kilobots) %[Self driving cars](postback:Self_Driving_Cars) %[Chatbots](postback:Chatbots)",
-    "KILOBOTS": "![Adrian](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/kilobot.gif)\n Aren't they cool!",
+    "KILOBOTS": "This is a Kilobot!\n ![SingleKilobot](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/single_kilobot.jpg)\n One of the simplest/cheapest robots in the world.\n Kilobots was at the time the largest swarm of robots in the world.\n ![SingleKilobot](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/kilobot_swarm.jpg)\n Adrian conducted his Master Thesis in the field of Robotics at Harvard, in the Self-organizing Systems Research Lab.\n Adrian focused on collaborative transport.\n Here a video of kilobots collectively transporting a picnic basket:\n ![Adrian](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/kilobot.gif)\n Aren't they cool!",
 
 
 
