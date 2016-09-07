@@ -5,10 +5,20 @@
     "WHAT'S UP": "Hi there!\nI’m Charlie!\n I will help you get to know Adrian better\n ![Adrian](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/Adrian_profile.png)\n %[Learn about Adrian](postback:learn_about_Adrian) %[One random fact!](postback:random_fact)",
     
     "YES": "Great!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to discover?\n %[Education](postback:Education) %[Professional Experience](postback:Professional_Experience) %[Hobbies and interests](postback:Hobbies_interests)",
-    "YES": "Great!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to explore?\n %[The geek](postback:the_geek) %[The athlete] %[The business man] %[The superhero]",
+    "YES": "Great!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The business man](postback:the_businessman) %[The superhero](postback:the_superhero)",
     
-    "GEEK": "The geekiest of all?\n %[Education] %[Professional Experience](postback:Professional_Experience) %[Hobbies and interests](postback:Hobbies_interests)",
+    "THE GEEK": "The geekiest of all?\n %[Education] %[Professional Experience](postback:Professional_Experience) %[Hobbies and interests](postback:Hobbies_interests)",
+    "KILOBOTS": ""
 
+
+
+
+    "THE ATHLETE": "The geekiest of all?\n %[Education] %[Professional Experience](postback:Professional_Experience) %[Hobbies and interests](postback:Hobbies_interests)",
+    
+    
+    
+    "THE BUSINESS MAN": "The geekiest of all?\n %[Education] %[Professional Experience](postback:Professional_Experience) %[Hobbies and interests](postback:Hobbies_interests)",
+    
     
     "LEARN ABOUT ADRIAN": "Great!\n What would you be interested in learning about? %[Education](postback:Education) %[Professional Experience](postback:Professional_Experience) %[Hobbies and interests](postback:Hobbies_interests)",
     "GET TO KNOW ADRIAN": "Great!\n What would you be interested in learning about? %[Education](postback:Education) %[Professional Experience](postback:Professional_Experience) %[Hobbies and interests](postback:Hobbies_interests)",
