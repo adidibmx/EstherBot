@@ -31,7 +31,9 @@
     "SELF DRIVING CARS": "Adrian conducted research on self driving cars at the Distributed Intelligent Systems and Algorithms Laboratory at EPFL.\n  %[Another geek project](postback:Another_geek_project) %[Another facet](postback:Another_facet)",
     "CHATBOTS": "This is Adrian's master piece!\n ![Charlie](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/charlie.jpg)\n Me, Charlie! :)\n Adrian likes to stay in touch with new technologies. He likes to understand the opportunities and potential applications these can bring.\n %[Another geek project](postback:Another_geek_project) %[Another facet](postback:Another_facet)",
 
-    "THE ATHLETE": "Adrian has since a very young age been engaged with sports!\n %[Education] %[Professional Experience](postback:Professional_Experience) %[Hobbies and interests](postback:Hobbies_interests)",
+    "THE ATHLETE": "Adrian has since a very young age been engaged with sports!\n Here some sports he enjoys: %[BMX](postback:BMX) %[Snowboarding](postback:Snowboarding) %[Kite surfing](postback:Kite_surfing)",
+    "ANOTHER SPORT": "Which sport would you like to explore: %[BMX](postback:BMX) %[Snowboarding](postback:Snowboarding) %[Kite surfing](postback:Kite_surfing)",
+
 
     "THE BUSINESS MAN": "The geekiest of all?\n %[Education] %[Professional Experience](postback:Professional_Experience) %[Hobbies and interests](postback:Hobbies_interests)",
 
