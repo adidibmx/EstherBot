@@ -1,8 +1,8 @@
 {
     "HELLO": "Hey there!\n Are you ready to get to know Adrian better?\n %[Get to know](postback:get_to_know) %[One random fact](postback:one_random_fact)",
-    "HI": "Hi there!\n Are you ready to get to know Adrian better?\n %[Get to know](postback:get_to_know) %[One random fact](postback:one_random_fact)",
+    "HI": "Hi there!\n Would you like to get to know Adrian better?\n %[Get to know](postback:get_to_know) %[One random fact](postback:one_random_fact)",
     "HOWDY": "Hello!\n Would you like to get to know Adrian better?\n %[Get to know](postback:get_to_know) %[One random fact](postback:one_random_fact)",    
-    "WHAT'S UP": "Wazzupp! Sorry...\n Dear Sir/Madam, Would you like to get to know Adrian?\n ![Adrian](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/Adrian_profile.png)\n %[Learn about Adrian](postback:learn_about_Adrian) %[One random fact!](postback:random_fact)",
+    "WHAT'S UP": "Wazzupp! Sorry...\n Dear Sir/Madam, Would you be interested in exploring Adrian's life?\n ![Adrian](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/Adrian_profile.png)\n %[Learn about Adrian](postback:learn_about_Adrian) %[One random fact!](postback:random_fact)",
  
  
     "YES": "Great!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The business man](postback:the_businessman) %[The superhero](postback:the_superhero)",
