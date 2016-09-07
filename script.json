@@ -1,9 +1,6 @@
 {
     "HELLO": "Hey there! I’m Charlie!\n I will help you get to know Adrian better\n ![Adrian](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/Adrian_profile.png)\n %[Learn about Adrian](postback:learn_about_Adrian) %[One random fact!](postback:random_fact)",
     "HI": "Hi there!\nI’m Adrian's bot!\n I will help you get to know Adrian better\n ![Adrian](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/Adrian_profile.png)\n %[Learn about Adrian](postback:learn_about_Adrian) %[One random fact!](postback:random_fact)",
-
-    
-    
     "YES": "Great!\n What would you be interested in learning about? %[Education](postback:Education) %[Professional Experience](postback:Professional_Experience) %[Hobbies and interests](postback:Hobbies_interests)",
     "LEARN ABOUT ADRIAN": "Great!\n What would you be interested in learning about? %[Education](postback:Education) %[Professional Experience](postback:Professional_Experience) %[Hobbies and interests](postback:Hobbies_interests)",
     "EDUCATION": "Adrian has studied in 9 different schools throughout his life.\n In three different countries: Bolivia, the U.S. and Switzerland\n Would you like to know more about his: %[High school](postback:High_school) %[Bachelors degree](postback:Bachelors_degree) %[Masters degree](postback:Masters_degree) %[Extracurricular activities](postback:Extracurricular_activities)",
@@ -13,7 +10,6 @@
     "MICROENGINEERING": "xxx\n Learn more about:%[EPFL](postback:EPFL)%[Masters degree](postback:Masters_degree)",
     "MASTERS DEGREE": "xxx:\n",
     "MASTER THESIS": "Adrian  was a visiting scholar at the SSR lab in Harvard for 8 months.\n He conducted research on collective transport with kilobots.\n Learn more about:%[SSR](postback:SSR)%[Kilobots](postback:Kilobots)",
-    
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "ONE RANDOM  FACT!": "Adrian is color blind",
