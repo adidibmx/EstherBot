@@ -11,6 +11,9 @@
     "GET TO KNOW ADRIAN": "Great!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The business man](postback:the_businessman) %[The superhero](postback:the_superhero)",
     "TELL ME ABOUT ADRIAN": "Great!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The business man](postback:the_businessman) %[The superhero](postback:the_superhero)",
 
+    "ANOTHER FACET": "Which facet would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The business man](postback:the_businessman) %[The superhero](postback:the_superhero)",
+
+   
     "NO, THANKS": "No worries!\n Just say HELLO and I'll be at your disposal",
     "NO, THANK YOU": "No worries!\n Just say HELLO and I'll be at your disposal",
     "NO": "No worries!\n Just say HELLO and I'll be at your disposal",
@@ -22,7 +25,9 @@
     
     
     "THE GEEK": "![Adrian](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/Adrian_profile.png)\n I think I rest my case.\n Adrian has a passion for technology!\n Here a list of cool projects he has worked on: %[Kilobots](postback:Kilobots) %[Self driving cars](postback:Self_Driving_Cars) %[Chatbots](postback:Chatbots)",
-    "KILOBOTS": "This is a Kilobot!\n ![SingleKilobot](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/single_kilobot.jpg)\n One of the simplest/cheapest robots in the world.\n The Kilobot was designed by the Self-organizing Systems Research Lab at Harvard where Adrian conducted his Master thesis.\n Kilobots are the largest swarm of robots in the world.\n ![SwarmKilobot](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/kilobot-swarm.jpg)\n Adrian focused in collective transport, having kilobots work together to move objects they could not move alone.\n Here a video of kilobots collectively stealing a picnic basket:\n ![Adrian](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/kilobot.gif)\n Aren't they cool!",
+    "ANOTHER GEEK PROJECT": "Which project would you like to explore: %[Kilobots](postback:Kilobots) %[Self driving cars](postback:Self_Driving_Cars) %[Chatbots](postback:Chatbots)",
+    
+    "KILOBOTS": "This is a Kilobot!\n ![SingleKilobot](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/single_kilobot.jpg)\n One of the simplest/cheapest robots in the world.\n The Kilobot was designed by the Self-organizing Systems Research Lab at Harvard where Adrian conducted his Master thesis.\n Kilobots are the largest swarm of robots in the world.\n ![SwarmKilobot](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/kilobot-swarm.jpg)\n Adrian focused in collective transport, having kilobots work together to move objects they could not move alone.\n Here a video of kilobots collectively stealing a picnic basket:\n ![Adrian](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/kilobot.gif)\n Aren't they cool!\n %[Another geek project](postback:Another_geek_project) %[Another facet](postback:Another_facet)",
 
 
 
