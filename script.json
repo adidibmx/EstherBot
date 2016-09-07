@@ -11,7 +11,7 @@
     "GET TO KNOW ADRIAN": "Great!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The business man](postback:the_businessman) %[The globetrotter](postback:the_globetrotter)",
     "TELL ME ABOUT ADRIAN": "Great!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The business man](postback:the_businessman) %[The globetrotter](postback:the_globetrotter)",
 
-    "ANOTHER FACET": "Which facet would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The business man](postback:the_businessman) %[The superhero](postback:the_superhero)",
+    "ANOTHER FACET": "Which facet would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The business man](postback:the_businessman) %[The globetrotter](postback:the_globetrotter)",
 
    
     "NO, THANKS": "No worries!\n Just say HELLO and I'll be at your disposal",
