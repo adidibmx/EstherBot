@@ -1,11 +1,12 @@
 {
-    "HELLO": "Hey there! I’m Charlie!\n I will help you get to know Adrian better\n ![Adrian](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/Adrian_profile.png)\n %[Get to know Adrian](postback:get_to_know_Adrian) %[One random fact!](postback:one_random_fact)",
+    "HELLO": "Hey there!\n Are you ready to get to know Adrian better?\n %[Get to know](postback:get_to_know) %[One random fact](postback:one_random_fact)",
     "HI": "Hi there!\nI’m Charlie!\n I will help you get to know Adrian better\n ![Adrian](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/Adrian_profile.png)\n %[Learn about Adrian](postback:learn_about_Adrian) %[One random fact!](postback:random_fact)",
     "HOWDY": "Hi there!\nI’m Charlie!\n I will help you get to know Adrian better\n ![Adrian](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/Adrian_profile.png)\n %[Learn about Adrian](postback:learn_about_Adrian) %[One random fact!](postback:random_fact)",
     "WHAT'S UP": "Hi there!\nI’m Charlie!\n I will help you get to know Adrian better\n ![Adrian](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/Adrian_profile.png)\n %[Learn about Adrian](postback:learn_about_Adrian) %[One random fact!](postback:random_fact)",
     
-    "YES": "Great!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to discover?\n %[Education](postback:Education) %[Professional Experience](postback:Professional_Experience) %[Hobbies and interests](postback:Hobbies_interests)",
     "YES": "Great!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The business man](postback:the_businessman) %[The superhero](postback:the_superhero)",
+    "GET TO KNOW": "Great!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The business man](postback:the_businessman) %[The superhero](postback:the_superhero)",
+
 
     "NO, THANKS": "No worries!\n Just say HELLO and I'll be at your disposal",
     "NO, THANK YOU": "No worries!\n Just say HELLO and I'll be at your disposal",
@@ -35,7 +36,7 @@
     "MASTER THESIS": "Adrian  was a visiting scholar at the SSR lab in Harvard for 8 months.\n He conducted research on collective transport with kilobots.\n Learn more about:%[SSR](postback:SSR)%[Kilobots](postback:Kilobots)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
-    "A RANDOM FACT": "Adrian is color blind",
+    "ONE RANDOM FACT": "Adrian is color blind",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
