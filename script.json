@@ -5,7 +5,7 @@
     "WHAT'S UP": "Hi there!\nI’m Charlie!\n I will help you get to know Adrian better\n ![Adrian](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/Adrian_profile.png)\n %[Learn about Adrian](postback:learn_about_Adrian) %[One random fact!](postback:random_fact)",
     
     "YES": "Great!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to discover?\n %[Education](postback:Education) %[Professional Experience](postback:Professional_Experience) %[Hobbies and interests](postback:Hobbies_interests)",
-    "YES": "Great!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to explore?\n %[The geek](postback:Geek) %[Professional Experience](postback:Professional_Experience) %[Hobbies and interests](postback:Hobbies_interests)",
+    "YES": "Great!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to explore?\n %[Geek](postback:Geek) %[Professional Experience](postback:Professional_Experience) %[Hobbies and interests](postback:Hobbies_interests)",
     
     "GEEK": "The geekiest of all?\n %[Education](postback:Education) %[Professional Experience](postback:Professional_Experience) %[Hobbies and interests](postback:Hobbies_interests)",
 
