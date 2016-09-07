@@ -21,9 +21,6 @@
     "ADRIAN": "Adrian is cool ...\n but Charlie is cooler ;)",
 
 
-
-    
-    
     "THE GEEK": "![Adrian](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/Adrian_profile.png)\n I think I rest my case.\n Adrian has a passion for technology!\n Here a list of cool projects he has worked on: %[Kilobots](postback:Kilobots) %[Self driving cars](postback:Self_Driving_Cars) %[Chatbots](postback:Chatbots)",
     "ANOTHER GEEK PROJECT": "Which project would you like to explore: %[Kilobots](postback:Kilobots) %[Self driving cars](postback:Self_Driving_Cars) %[Chatbots](postback:Chatbots)",
     
@@ -33,6 +30,8 @@
 
     "THE ATHLETE": "Adrian has since a very young age been engaged with sports!\n Here some sports he enjoys: %[BMX](postback:BMX) %[Snowboarding](postback:Snowboarding) %[Kite surfing](postback:Kite_surfing)",
     "ANOTHER SPORT": "Which sport would you like to explore: %[BMX](postback:BMX) %[Snowboarding](postback:Snowboarding) %[Kite surfing](postback:Kite_surfing)",
+
+    "BMX": "Adrian participated in two world championships (Brazil 2006 and Canada 2007) representing his home country Bolivia.\n ![SingleKilobot](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/bmx.jpg)\n %[Another sport](postback:Another_sport) %[Another facet](postback:Another_facet)",
 
 
     "THE BUSINESS MAN": "The geekiest of all?\n %[Education] %[Professional Experience](postback:Professional_Experience) %[Hobbies and interests](postback:Hobbies_interests)",
