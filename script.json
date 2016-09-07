@@ -21,7 +21,7 @@
 
     
     
-    "THE GEEK": "The geekiest of all?\n %[Education] %[Professional Experience](postback:Professional_Experience) %[Hobbies and interests](postback:Hobbies_interests)",
+    "THE GEEK": "![Adrian](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/Adrian_profile.png)\n I think I rest my case.\n Adrian has a passion for technology!\n Here a list of cool projects he has worked on: %[Kilobots](postback:Kilobots) %[Self driving cars](postback:Self_Driving_Cars) %[Chatbots](postback:Chatbots)",
     "KILOBOTS": "![Adrian](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/kilobot.gif)\n Aren't they cool!",
 
 
