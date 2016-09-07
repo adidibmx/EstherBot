@@ -7,7 +7,7 @@
     "YES": "Great!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to discover?\n %[Education](postback:Education) %[Professional Experience](postback:Professional_Experience) %[Hobbies and interests](postback:Hobbies_interests)",
     "YES": "Great!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to explore?\n %[Geek](postback:Geek) %[Professional Experience](postback:Professional_Experience) %[Hobbies and interests](postback:Hobbies_interests)",
     
-    "GEEK": "The geekiest of all?\n %[Education](postback:Education) %[Professional Experience](postback:Professional_Experience) %[Hobbies and interests](postback:Hobbies_interests)",
+    "GEEK": "The geekiest of all?\n %[Education] %[Professional Experience](postback:Professional_Experience) %[Hobbies and interests](postback:Hobbies_interests)",
 
     
     "LEARN ABOUT ADRIAN": "Great!\n What would you be interested in learning about? %[Education](postback:Education) %[Professional Experience](postback:Professional_Experience) %[Hobbies and interests](postback:Hobbies_interests)",
