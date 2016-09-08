@@ -4,6 +4,7 @@ const _ = require('lodash');
 const Script = require('smooch-bot').Script;
 
 const scriptRules = require('./script.json');
+var previousUpperText = '';
 
 module.exports = new Script({
     processing: {
@@ -56,6 +57,13 @@ Would you like to get to know Adrian? %[Yes](postback:yes) %[No, thanks](postbac
 
                 if (!_.has(scriptRules, upperText)) {
                     return bot.say(`I am sorry, I do not know the answer to that question. I will let Adrian know so he can share the info during the interview.`).then(() => 'speak');
+                }
+                
+                // If text is the same as the previous one, ignore
+                if (previousUpperText == upperText) {
+                    return Promise.resolve("speak");
+                }else{
+                    previousUpperText = upperText;
                 }
 
                 var response = scriptRules[upperText];
