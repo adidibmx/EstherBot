@@ -32,7 +32,7 @@
     "ANOTHER SPORT": "Which sport would you like to explore: %[BMX](postback:BMX) %[Snowboarding](postback:Snowboarding) %[Kite surfing](postback:Kite_surfing)",
 
     "BMX": "Adrian participated in two world championships (Brazil 2006 and Canada 2007) representing his home country Bolivia.\n ![BMX](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/bmx.jpg)\n Jumping over 30 ft jumps while battling with 7 other riders doesn't look that easy :$\n %[Another sport](postback:Another_sport) %[Another facet](postback:Another_facet)",
-    "SNOWBOARDING": "Since he moved to Switzerland, Adrian has spent most of his winter holidays snowboarding in the Alps.\n ![SNOWBOARD](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/snowboard.jpg)\n Ok, Ok, that's not Adrian. It's his brother Rafael.\n %[Another sport](postback:Another_sport) %[Another facet](postback:Another_facet)",
+    "SNOWBOARDING": "Since he moved to Switzerland, Adrian has spent most of his winter holidays snowboarding in the Alps.\n ![SNOWBOARD](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/snowboard_rafa.jpg)\n Ok, Ok, that's not Adrian. It's his brother Rafael.\n %[Another sport](postback:Another_sport) %[Another facet](postback:Another_facet)",
 
     "THE BUSINESS MAN": "The geekiest of all?\n %[Education] %[Professional Experience](postback:Professional_Experience) %[Hobbies and interests](postback:Hobbies_interests)",
 
