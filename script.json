@@ -2,6 +2,8 @@
     "HELLO": "Hey there!\n Are you ready to get to know Adrian better?\n %[Get to know Adrian](postback:get_to_know_Adrian) %[One random fact](postback:one_random_fact) %[No, thanks](postback:no_thanks)",
     "HI": "Hi there!\n Would you like to get to know Adrian better?\n %[Get to know Adrian](postback:get_to_know_Adrian) %[One random fact](postback:one_random_fact) %[No, thanks](postback:no_thanks)",
     "HOWDY": "Hello!\n Would you like to get to know Adrian better?\n %[Get to know Adrian](postback:get_to_know_Adrian) %[One random fact](postback:one_random_fact) %[No, thanks](postback:no_thanks)",    
+    "HOLA": "Hola! Como estas?\n Would you like to get to know Adrian better?\n %[Get to know Adrian](postback:get_to_know_Adrian) %[One random fact](postback:one_random_fact) %[No, thanks](postback:no_thanks)",    
+    "BONJOUR": "Bonjour!\n Would you like to get to know Adrian better?\n %[Get to know Adrian](postback:get_to_know_Adrian) %[One random fact](postback:one_random_fact) %[No, thanks](postback:no_thanks)",    
     "WHAT'S UP": "Wazzupp! Sorry...\n Dear Sir/Madam, Would you be interested in exploring Adrian's life?\n %[Get to know Adrian](postback:get_to_know_Adrian) %[One random fact](postback:one_random_fact) %[No, thanks](postback:no_thanks)",
     "CHARLIE": "That's my name!\n Would you like to get to know Adrian better?\n %[Get to know Adrian](postback:get_to_know_Adrian) %[One random fact](postback:one_random_fact) %[No, thanks](postback:no_thanks)",
  
@@ -64,6 +66,7 @@
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "RANDOM FACT": "Adrian is color blind",
     "TELL ME A JOKE": "Two chatbots walk into a bar... I don't remember what happened next",
+    "PUBLICATIONS": "You can find a list of the scientific articles Adrian has published by clicking on the microscope at the top of the page.",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, Charlie is back in charge."
 }
