@@ -6,13 +6,13 @@
     "CHARLIE": "That's my name!\n Would you like to get to know Adrian better?\n %[Get to know Adrian](postback:get_to_know_Adrian) %[One random fact](postback:one_random_fact) %[No, thanks](postback:no_thanks)",
  
  
-    "YES": "Great!\n Adrian has many interests.\n Which facet of Adrian would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The business man](postback:the_businessman) %[The globetrotter](postback:the_globetrotter)",
-    "GET TO KNOW": "Great!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The business man](postback:the_businessman) %[The globetrotter](postback:the_globetrotter)",
-    "GET TO KNOW ADRIAN": "Great!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The business man](postback:the_businessman) %[The globetrotter](postback:the_globetrotter)",
-    "TELL ME ABOUT ADRIAN": "Sure!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The business man](postback:the_businessman) %[The globetrotter](postback:the_globetrotter)",
-    "LEARN ABOUT ADRIAN": "Great!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The business man](postback:the_businessman) %[The globetrotter](postback:the_globetrotter)",
+    "YES": "Great!\n Adrian has many interests.\n Which facet of Adrian would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The professional](postback:the_professional) %[The globetrotter](postback:the_globetrotter)",
+    "GET TO KNOW": "Great!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The professional](postback:the_professional) %[The globetrotter](postback:the_globetrotter)",
+    "GET TO KNOW ADRIAN": "Great!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The professional](postback:the_professional) %[The globetrotter](postback:the_globetrotter)",
+    "TELL ME ABOUT ADRIAN": "Sure!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The professional](postback:the_professional) %[The globetrotter](postback:the_globetrotter)",
+    "LEARN ABOUT ADRIAN": "Great!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The professional](postback:the_professional) %[The globetrotter](postback:the_globetrotter)",
 
-    "ANOTHER FACET": "Which facet would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The business man](postback:the_businessman) %[The globetrotter](postback:the_globetrotter)",
+    "ANOTHER FACET": "Which facet would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The professional](postback:the_professional) %[The globetrotter](postback:the_globetrotter)",
 
    
     "NO, THANKS": "No worries!\n Just say HELLO and I'll be at your disposal",
@@ -37,7 +37,7 @@
     "SNOWBOARDING": "Since he moved to Switzerland, Adrian has spent most of his winter holidays snowboarding in the Alps.\n ![SNOWBOARD](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/snowboard_rafa.jpg)\n Ok, Ok, that's not Adrian. It's his brother Rafael.\n %[Another sport](postback:Another_sport) %[Another facet](postback:Another_facet)",
     "KITESURFING": "The most recent sport Adrian has gotten into is Kitesurfing. The speed and adrenaline provided by the wind are fantastic!\n ![KITESURFING](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/kitesurfing2.jpg)\n At the moment. Adrian spends more time drinking seawater than on his board :P %[Another sport](postback:Another_sport) %[Another facet](postback:Another_facet)",
 
-    "THE BUSINESS MAN": "Adrian has had the opportunity to work in several companies!\n Would you like to learn more about his professional experience: %[IBM](postback:IBM) %[DUPONT](postback:DUPONT) %[BCG](postback:BCG)",
+    "THE PROFESSIONAL": "Adrian has had the opportunity to work in several companies!\n Would you like to learn more about his professional experience: %[IBM](postback:IBM) %[DUPONT](postback:DUPONT) %[BCG](postback:BCG)",
     "ANOTHER JOB": "Which job would you like to know more about: %[IBM](postback:IBM) %[DUPONT](postback:DUPONT) %[BCG](postback:BCG)",
 
     "IBM": "![IBMLOGO](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/ibmlogo.jpg)\n Adrian joined IBM's Work-student program. Where he worked part time (50%) at IBM next to his studies.\n During his time at IBM he held two positions:\n His first role was in the competency development and education team.\n He then moved to the IT security team where he performed IT automation for banking servers.\n %[Another job](postback:Another_job) %[Another facet](postback:Another_facet)",
