@@ -6,7 +6,7 @@
     "CHARLIE": "That's my name!\n Would you like to get to know Adrian better?\n %[Get to know Adrian](postback:get_to_know_Adrian) %[One random fact](postback:one_random_fact) %[No, thanks](postback:no_thanks)",
  
  
-    "YES": "Great!\n Adrian has a looooooooot of interests.\n Which facet of Adrian would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The business man](postback:the_businessman) %[The globetrotter](postback:the_globetrotter)",
+    "YES": "Great!\n Adrian has many interests.\n Which facet of Adrian would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The business man](postback:the_businessman) %[The globetrotter](postback:the_globetrotter)",
     "GET TO KNOW": "Great!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The business man](postback:the_businessman) %[The globetrotter](postback:the_globetrotter)",
     "GET TO KNOW ADRIAN": "Great!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The business man](postback:the_businessman) %[The globetrotter](postback:the_globetrotter)",
     "TELL ME ABOUT ADRIAN": "Sure!\n Adrian is a man of many interests.\n Which facet of Adrian would you like to explore?\n %[The geek](postback:the_geek) %[The athlete](postback:the_athlete) %[The business man](postback:the_businessman) %[The globetrotter](postback:the_globetrotter)",
@@ -22,7 +22,7 @@
     "ADRIAN": "Adrian is cool ...\n but Charlie is cooler ;)",
 
 
-    "THE GEEK": "![Adrian](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/Adrian_profile.png)\n I think I rest my case.\n Adrian has a passion for technology!\n Here a list of cool projects he has worked on: %[Kilobots](postback:Kilobots) %[Self driving cars](postback:Self_Driving_Cars) %[Chatbots](postback:Chatbots)",
+    "THE GEEK": "![Adrian](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/Adrian_profile.png)\n Adrian after building a 3D printer.\n Adrian really enjoys discovering new technologies!\n Here a list of cool projects he has worked on: %[Kilobots](postback:Kilobots) %[Self driving cars](postback:Self_Driving_Cars) %[Chatbots](postback:Chatbots)",
     "ANOTHER GEEK PROJECT": "Which project would you like to explore: %[Kilobots](postback:Kilobots) %[Self driving cars](postback:Self_Driving_Cars) %[Chatbots](postback:Chatbots)",
     
     "KILOBOTS": "This is a Kilobot!\n ![SingleKilobot](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/single_kilobot.jpg)\n One of the simplest/cheapest robots in the world.\n The Kilobot was designed by the Self-organizing Systems Research Lab at Harvard where Adrian conducted his Master thesis.\n Kilobots are the largest swarm of robots in the world.\n ![SwarmKilobot](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/kilobot-swarm.jpg)\n Adrian focused in collective transport, having kilobots work together to move objects they could not move alone.\n Here a video of kilobots collectively stealing a picnic basket:\n ![Adrian](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/kilobot.gif)\n Aren't they cool!\n %[Another geek project](postback:Another_geek_project) %[Another facet](postback:Another_facet)",
