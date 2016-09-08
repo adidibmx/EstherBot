@@ -13,7 +13,18 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('So you want to learn about Esther? Just say HELLO to get started.')
+            return bot.say('Hello, I am Charlie.')
+                .then(() => 'askName');
+        }
+    },
+
+ askName : {
+        prompt: (bot) => bot.say('What\'s your name?'),
+        receive: (bot, message) => {
+            const name = message.text;
+            return bot.setProp('name', name)
+                .then(() => bot.say(`Very nice to meet you ${name}.
+Would you like to get to know Adrian? %[Yes](postback:yes) %[No, thanks](postback:no)`))
                 .then(() => 'speak');
         }
     },
@@ -44,7 +55,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`I didn't understand that.`).then(() => 'speak');
+                    return bot.say(`I am sorry, I do not know the answer to that question. I will let Adrian know so he can share the info during the interview.`).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
