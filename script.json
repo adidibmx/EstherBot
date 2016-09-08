@@ -48,7 +48,7 @@
     "THE GLOBETROTTER": "Adrian has xxx!\n Which adventure would you like to learn more about: %[U.S. bus trip](postback:US_Bus_trip) %[SWISS bike trip](postback:Swiss_bike_trip) %[Iran discovery](postback:Iran_discovery)",
     "ANOTHER ADVENTURE": "Which job would you like to know more about: %[IBM](postback:IBM) %[DUPONT](postback:DUPONT) %[BCG](postback:BCG)",
 
-    "U.S. BUS TRIP": "xxx\n ![BUSTRIP](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/bustrip.gif) %[Another sport](postback:Another_sport) %[Another facet](postback:Another_facet)",
+    "U.S. BUS TRIP": "xxx\n ![BUSTRIP](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/bustrip.gif)\n %[Another sport](postback:Another_sport) %[Another facet](postback:Another_facet)",
     "SWISS BIKE TRIP": "Since he moved to Switzerland, Adrian has spent most of his winter holidays snowboarding in the Alps.\n ![SNOWBOARD](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/snowboard_rafa.jpg)\n Ok, Ok, that's not Adrian. It's his brother Rafael.\n %[Another sport](postback:Another_sport) %[Another facet](postback:Another_facet)",
     "IRAN DISCOVERY": "The most recent sport Adrian has gotten into is Kitesurfing. The speed and adrenaline are incredible!\n ![KITESURFING](https://raw.githubusercontent.com/adidibmx/EstherBot/master/img/kitesurfing.jpg)\n At the moment Adrian spends more time drinking seawater than on his board :P %[Another sport](postback:Another_sport) %[Another facet](postback:Another_facet)",
 
